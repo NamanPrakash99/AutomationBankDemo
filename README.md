@@ -37,7 +37,7 @@ To leverage DemoAutomation Bank for testing and automation:
 
 ## Contributions
 
-Contributions to DemoAutomation Bank are encouraged! Report issues or submit pull requests on the [GitHub repository](https://github.com/masumrazait/DemoAutomationBank). Please adhere to existing coding standards and testing practices.
+Contributions to DemoAutomation Bank are encouraged! Report issues or submit pull requests on the [GitHub repository](https://github.com/NamanPrakash99/AutomationBankDemo). Please adhere to existing coding standards and testing practices.
 
 ## Disclaimer
 
